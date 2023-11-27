@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "utYmSQcf6sbmlEeJB/m5KkKQDL/LkhVaObZ/9fQsvreFdRNoxRvYBQDQ4L/ajZrjJTXyqaxgbaKgMP62sThWzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serda\\source\\repos\\RentACar\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serda\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

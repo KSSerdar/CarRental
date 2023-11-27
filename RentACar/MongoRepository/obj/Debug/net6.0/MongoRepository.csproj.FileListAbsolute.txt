@@ -1,0 +1,12 @@
+C:\Users\serda\source\repos\RentACar\MongoRepository\bin\Debug\net6.0\MongoRepository.deps.json
+C:\Users\serda\source\repos\RentACar\MongoRepository\bin\Debug\net6.0\MongoRepository.dll
+C:\Users\serda\source\repos\RentACar\MongoRepository\bin\Debug\net6.0\MongoRepository.pdb
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.AssemblyInfo.cs
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.dll
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\refint\MongoRepository.dll
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\MongoRepository.pdb
+C:\Users\serda\source\repos\RentACar\MongoRepository\obj\Debug\net6.0\ref\MongoRepository.dll
